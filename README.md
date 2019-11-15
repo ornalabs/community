@@ -4,6 +4,3 @@ Share a private virtual room with friends. Watch videos, play with 3D objects, o
 
 
 
-# BrowserStack
-
-using BrowserStack for testing new Texture and Mesh compressions ( BasisU Draco) 
